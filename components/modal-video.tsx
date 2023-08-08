@@ -38,8 +38,8 @@ export default function ModalVideo({
             <svg className="w-16 h-16 sm:w-20 sm:h-20 hover:opacity-75 transition duration-150 ease-in-out" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg">
               <defs>
                 <linearGradient x1="78.169%" y1="9.507%" x2="24.434%" y2="90.469%" id="a">
-                  <stop stopColor="#EBF1F5" stopOpacity=".8" offset="0%" />
-                  <stop stopColor="#EBF1F5" offset="100%" />
+                  <stop stopColor="#15803d" stopOpacity=".8" offset="0%" />
+                  <stop stopColor="#15803d" offset="100%" />
                 </linearGradient>
               </defs>
               <circle fill="url(#a)" cx="44" cy="44" r="44" />
